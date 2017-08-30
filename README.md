@@ -38,8 +38,8 @@ You should also create a README with a description of the project and setup inst
 
 You can create your solution using any modern web development framework, language, and database, but extra points for doing it in PHP (we are a LAMP shop).
 
-If you have any questions please email carlos@BoldLeads.com
+If you have any questions please email carlos@boldleads.com
 
 Submission
 -------------
-Please email a link to your repository to carlos@BoldLeads.com
+Please email a link to your repository to carlos@boldleads.com
